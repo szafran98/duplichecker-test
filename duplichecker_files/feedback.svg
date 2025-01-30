@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28.657" height="29.6" viewBox="0 0 28.657 29.6">
+  <g id="feedback" transform="translate(4.096 7.672)">
+    <path id="Path_3686" data-name="Path 3686" d="M3,20.231v4.092a2.046,2.046,0,0,0,2.046,2.046H19.369l6.138,2.766V12.046A2.046,2.046,0,0,0,23.461,10H19.369" transform="translate(-1.746 -8.007)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6"/>
+    <path id="Path_3689" data-name="Path 3689" d="M8.839,0H5" transform="translate(8.529 7.163)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1.6"/>
+    <line id="Line_4" data-name="Line 4" x1="10.742" transform="translate(6.626 11.667)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1.6"/>
+    <path id="Path_3690" data-name="Path 3690" d="M6.394,9.939v6.788a.848.848,0,0,1-.848.848h-1.7A.848.848,0,0,1,3,16.727V10.788a.848.848,0,0,1,.848-.848H6.394A3.394,3.394,0,0,0,9.788,6.545V5.7a1.7,1.7,0,0,1,3.394,0V9.939h2.545a1.7,1.7,0,0,1,1.7,1.7l-.848,4.242c-.251,1.069-.943,1.761-1.7,1.7H8.939A2.545,2.545,0,0,1,6.394,15.03" transform="translate(-6.296 -10.872)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6"/>
+  </g>
+</svg>
